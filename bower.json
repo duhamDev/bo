@@ -1,0 +1,21 @@
+{
+  "name": "bower_components",
+  "version": "0.0.1",
+  "description": "BO-PV-FONDA",
+  "authors": [
+    "Woonoz"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "web/bower_components/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4",
+    "fontawesome": "~4.3.0"
+  }
+}
